@@ -30,7 +30,7 @@ if (empty($_GET['Submit']))
             <table>
             <tr><td>First Name: <td><?php print $_GET['fname']; ?> </td>
             <tr><td>Last Name: <td><?php print $_GET['lname'];?></td>
-            <tr><td>Middle Name: <td><?php print $_GET['Mi'];?></td>
+            <tr><td>Middle Name: <td><?php print $_GET['Mn'];?></td>
             <tr><td>Course: <td><?php print $_GET['Course']; ?></td>
             <tr><td>Year and Section: <td><?php print $_GET['YaS']; ?></td>
             <tr><td>Age: <td><?php print $_GET['Age'];?></td>
